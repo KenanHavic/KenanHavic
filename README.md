@@ -24,8 +24,14 @@
 - My first programming language was C++ which I learned independently.
 - My first project was a "Library Management" system that I developed using C++.
 
+
+## INTERESTS
+- Mobile Development: Android
+- Programming languages: Java and Kotlin
+
 ## CONTACT
-- 📫 How to reach me **havickenan3@gmail.com**
+- 📫 You can contact me at **havickenan3@gmail.com** for any inquiries or collaboration opportunities.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
