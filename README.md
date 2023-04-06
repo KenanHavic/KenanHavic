@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenan Havić</h1>
-<h3 align="center">I'm a second-year student of Information Technology with a passion for programming and technology. I completed my high school education at Gymnasium and currently attend university. I am 21 years old and eager to learn and grow as a programmer.</h3>
+<h3 align="center">I'm a second-year student of Information Technology with a passion for programming and technology. I completed my high school education at Gymnasium and currently attend university. I am 21 years old and eager to learn and grow as a programmer.
+"I am particularly interested in mobile development, and have been focusing my studies on Android programming and app development."</h3>
 
 <p align="left"> <a href="https://twitter.com/havickenan" target="blank"><img src="https://img.shields.io/twitter/follow/havickenan?logo=twitter&style=for-the-badge" alt="havickenan" /></a> </p>
 
