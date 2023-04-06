@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kenan Havić</h1>
-<h3 align="center">I'm a second-year student of Information Technology with a passion for programming and technology. I completed my high school education at Gimnazija and currently attend university. I am 21 years old and eager to learn and grow as a programmer.</h3>
+<h3 align="center">I'm a second-year student of Information Technology with a passion for programming and technology. I completed my high school education at Gymnasium and currently attend university. I am 21 years old and eager to learn and grow as a programmer.</h3>
 
 <p align="left"> <a href="https://twitter.com/havickenan" target="blank"><img src="https://img.shields.io/twitter/follow/havickenan?logo=twitter&style=for-the-badge" alt="havickenan" /></a> </p>
 
-## ABOUT ME
-👋 My name is Kenan Havić
-🌍 I'm based in Tuzla, Bosnia and Herzegovina
-📅 I'm 21 years old
-⚽ Former professional football player
-🧠 Currently I'm learning : Java, MySQL, Kotlin, C++
+<h2>About Me</h2>
+<ul>
+  <li><strong>👋 My name is Kenan Havić</strong></li>
+  <li><strong>🌍 I'm based in Tuzla, Bosnia and Herzegovina</strong></li>
+  <li><strong>📅 I'm 21 years old</strong></li>
+  <li><strong>⚽ Former professional football player</strong></li>
+  <li><strong>🧠 Currently I'm learning:</strong></li>
+  <ul>
+  </ul>
 
 
 ## EXPERIENCE
@@ -21,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/havickenan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="havickenan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kenan havic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenan havic" height="30" width="40" /></a>
-<a href="https://fb.com/kenan havic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenan havic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kenan-havic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenan havic" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kenan.k.havic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenan havic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Skills:</h3>
