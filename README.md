@@ -11,7 +11,13 @@
   <li><strong>⚽ Former professional football player</strong></li>
   <li><strong>🧠 Currently I'm learning:</strong></li>
   <ul>
+    <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> Java</li>
+    <li><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL</li>
+    <li><img src="https://img.icons8.com/color/48/000000/kotlin.png"/> Kotlin</li>
+    <li><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++</li>
   </ul>
+</ul>
+
 
 
 ## EXPERIENCE
