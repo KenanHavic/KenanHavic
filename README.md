@@ -21,13 +21,13 @@
 
 
 ## EXPERIENCE
-- My first programming language was C++ which I learned independently.
-- My first project was a "Library Management" system that I developed using C++.
+- My first programming language was **C++** which I learned independently.
+- My first project was a **"Library Management"** system that I developed using C++.
 
 
 ## INTERESTS
-- Mobile Development: Android
-- Programming languages: Java and Kotlin
+- Mobile Development: **Android**
+- Programming languages: **Java** and **Kotlin**
 
 ## CONTACT
 - 📫 You can contact me at **havickenan3@gmail.com** for any inquiries or collaboration opportunities.
