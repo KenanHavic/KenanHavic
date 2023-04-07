@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenan Havić</h1>
-<h3 align="center">I'm a second-year student of Information Technology with a passion for programming and technology. I completed my high school education at Gymnasium and currently attend university. I am 21 years old and eager to learn and grow as a programmer.</h3>
+<h3 align="center">As a second-year Information Technology student, I have a fervent interest in programming and technology. I received my high school education from Gymnasium and am currently pursuing my studies at university. At 21 years old, I am enthusiastic about expanding my knowledge and skills in programming to further my growth as a developer.</h3>
 <p align="center">I am particularly interested in mobile development, and have been focusing my studies on Android programming and app development.</p>
 
 
