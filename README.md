@@ -13,7 +13,7 @@
   <li><strong>⚽ Former professional football player</strong></li>
   <li><strong>🧠 Currently learning:</strong></li>
   <ul>
-    <li><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# ASP.NET</li>
+    <li><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# .NET</li>
     <li><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL</li>
   </ul>
 </ul>
@@ -22,8 +22,10 @@
 - Started programming with **C++** as the first language and developed a **Library Management** system independently.
 
 ## INTERESTS
-- Web Development: **ASP.NET**
-- Database Management: **MySQL**
+- Backend Development: .NET
+- Database Management: MySQL
+- Cloud Computing: Azure
+
 
 ## CONTACT
 - 📫 Contact me at **havickenan3@gmail.com** for inquiries or collaboration opportunities.
@@ -37,7 +39,7 @@
 
 <h3 align="left">My Skills:</h3>
 <p align="left">
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# ASP.NET</a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# .NET</a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL</a>
 </p>
 
