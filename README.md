@@ -10,7 +10,6 @@
   <li><strong>👋 My name is Kenan Havić</strong></li>
   <li><strong>🌍 Based in Tuzla, Bosnia and Herzegovina</strong></li>
   <li><strong>📅 21 years old</strong></li>
-  <li><strong>⚽ Former professional football player</strong></li>
   <li><strong>🧠 Currently learning:</strong></li>
   <ul>
     <li><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# .NET</li>
